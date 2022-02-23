@@ -3,11 +3,13 @@ import processing.core.PApplet;
 public class Sketch extends PApplet {
 	
   public void settings() {
+
    //size of the picture
     size(400, 400);
   }
   
   public void setup() {
+    
     //background coloring
     background(0, 210, 252);
   }
