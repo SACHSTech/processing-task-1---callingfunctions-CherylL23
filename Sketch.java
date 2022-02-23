@@ -2,7 +2,6 @@ import processing.core.PApplet;
 
 public class Sketch extends PApplet {
 	
-  
   public void settings() {
    //size of the picture
     size(400, 400);
@@ -12,7 +11,7 @@ public class Sketch extends PApplet {
     //background coloring
     background(0, 210, 252);
   }
-  
+
   public void draw() {
 
     //sun
