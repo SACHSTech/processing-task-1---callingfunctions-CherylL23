@@ -11,7 +11,6 @@ public class Sketch extends PApplet {
     background(0, 210, 252);
   }
   public void draw() {
-	  
     //sun
     stroke(0);
     fill(240, 252, 0);
